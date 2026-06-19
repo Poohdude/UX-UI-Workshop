@@ -11,3 +11,5 @@ My own text test
 # test 5
 
 yest
+
+latest
